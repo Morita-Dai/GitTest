@@ -7,7 +7,7 @@ public class hoge : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("ReSTARTだぁ！マジ卍！");
     }
 
     // Update is called once per frame
